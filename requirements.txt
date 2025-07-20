@@ -1,0 +1,17 @@
+python==3.11.4
+
+# __future__
+# dataclasses
+# datetime
+# email
+# json
+# os
+# pathlib
+# re
+# unicodedata
+
+dateparser==1.2.2
+sentence-transformers==5.0.0
+spacy==3.8.7
+transformers==4.53.2
+vaderSentiment==3.3.2
